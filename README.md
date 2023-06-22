@@ -1,2 +1,2 @@
-# github.com-manishsayamee.io
-live portfolio.
+
+https://manishsayamee.github.io/web-profile/
